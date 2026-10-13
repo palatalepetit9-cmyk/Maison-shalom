@@ -1,0 +1,18 @@
+MAISON SHALOM — AJOUTER VOS PHOTOS
+
+1. Ouvrez le dossier images.
+2. Ajoutez les photos de vêtements en les nommant exactement :
+   habit1.jpg, habit2.jpg, habit3.jpg ... jusqu'à habit50.jpg
+3. Ajoutez les photos de sacs en les nommant exactement :
+   sac1.jpg, sac2.jpg, sac3.jpg ... jusqu'à sac20.jpg
+
+IMPORTANT :
+- Les noms doivent être en minuscules, sans espace.
+- Gardez l'extension .jpg. Si votre photo est en .png ou .webp, convertissez-la en JPG ou adaptez le code.
+- Exemple de chemin : images/habit1.jpg
+- Le fichier index.html doit rester au même niveau que le dossier images.
+- Une fois les photos ajoutées, ouvrez index.html : les images apparaîtront dans les cartes produits.
+- Touchez une photo pour l'agrandir.
+- Avant la mise en ligne, remplacez aussi le numéro WhatsApp provisoire dans index.html :
+  const WHATSAPP_NUMBER = "243XXXXXXXXX";
+  Mettez le numéro de la vendeuse, chiffres seulement, sans + ni espaces.
